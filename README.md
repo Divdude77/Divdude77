@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divdude77
 - 👀 I’m interested in Problem Solving, GUI Developement, Web Developement, AI, and making other cool programs!
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python and Web Developement!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Divdude#8637 on Discord
 
