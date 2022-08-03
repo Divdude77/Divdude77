@@ -4,6 +4,6 @@
 A student with wacky but creative project ideas 👨🏻‍💻
 </h1>
 
-[![Divdude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divdude77&theme=gotham&bg-color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![Divdude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divdude77&theme=gotham&bg-color=0e1116&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center">Note: Try viewing this page with your viewing mode (light/dark) switched!</h4>
