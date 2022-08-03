@@ -1,4 +1,4 @@
-<a><img src="https://drive.google.com/uc?id=1l59vgFzwUEIFhwN7u0UAHEub4L7ib4dr"></a>
+[![Github-Banner.png](https://i.postimg.cc/HnzNvJLh/Github-Banner.png)](https://postimg.cc/vx1XcZfr)
 
 - 👋 Hi, I’m @Divdude77
 - 👀 I’m interested in Problem Solving, GUI Developement, Web Developement, AI, and making other cool programs!
