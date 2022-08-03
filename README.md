@@ -1,4 +1,4 @@
-[![Github-Banner.png](https://i.postimg.cc/HnzNvJLh/Github-Banner.png)](https://postimg.cc/vx1XcZfr)
+[![Github Banner](https://i.postimg.cc/pLC625YV/1.png)](https://postimg.cc/MncD5TFg)
 
 - 👋 Hi, I’m @Divdude77
 - 👀 I’m interested in Problem Solving, GUI Developement, Web Developement, AI, and making other cool programs!
