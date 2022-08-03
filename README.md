@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python and Web Developement!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Divdude#8637 on Discord
+<body style="background-color:green;">
 
-<!---
-Divdude77/Divdude77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Divdude's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divdude77&theme=gotham&bg-color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+</body>
