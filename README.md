@@ -1,4 +1,4 @@
-![Github Banner (1)](https://user-images.githubusercontent.com/75612147/182613708-01d4e65e-f79b-42da-bfa0-a09c9090e51a.png)
+<a><img src="https://drive.google.com/uc?id=1l59vgFzwUEIFhwN7u0UAHEub4L7ib4dr"></a>
 
 - 👋 Hi, I’m @Divdude77
 - 👀 I’m interested in Problem Solving, GUI Developement, Web Developement, AI, and making other cool programs!
