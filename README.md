@@ -14,4 +14,4 @@ A student with wacky but creative project ideas 👨🏻‍💻
   <img src="https://skills.thijs.gg/icons?i=html,css,js">
   <h1></h1>
 </div>
-<h4 align="center">Note: Try viewing this page with your viewing mode (light/dark) switched!</h4>
+<h6 align="center">Note: Try viewing this page with your viewing mode (light/dark) switched!</h6>
