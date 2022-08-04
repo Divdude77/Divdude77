@@ -1,5 +1,4 @@
-[![Github Banner](https://i.postimg.cc/pLC625YV/1.png)](https://postimg.cc/MncD5TFg)
-
+<a><img src="https://i.postimg.cc/pLC625YV/1.png" style="max-height: 100%;"></a>
 <h1 align="center">
 A student with wacky but creative project ideas 👨🏻‍💻
 </h1>
