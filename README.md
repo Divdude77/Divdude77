@@ -1,4 +1,4 @@
-<a><img src="https://i.postimg.cc/pLC625YV/1.png" style="max-height: 100%;"></a>
+<a href="google.com"><img src="https://i.postimg.cc/pLC625YV/1.png" style="max-height: 100%;"></a>
 <h1 align="center">
 A student with wacky but creative project ideas 👨🏻‍💻
 </h1>
