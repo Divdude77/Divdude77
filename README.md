@@ -7,7 +7,7 @@ A student with wacky yet creative project ideas 👨🏻‍💻
   <h4>
     Languages I'm familiar with:
   </h4>
-  <img src="https://skills.thijs.gg/icons?i=python,mysql,arduino">
+  <img src="https://skills.thijs.gg/icons?i=python,c,mysql,arduino">
   <h4>
     Currently Learning:
   </h4>
