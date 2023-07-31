@@ -7,11 +7,11 @@ A student with wacky yet creative project ideas 👨🏻‍💻
   <h4>
     Languages I'm familiar with:
   </h4>
-  <img src="https://skills.thijs.gg/icons?i=python,c,mysql,arduino">
+  <img src="https://skills.thijs.gg/icons?i=python,c,mysql,arduino,html,css">
   <h4>
     Currently Learning:
   </h4>
-  <img src="https://skills.thijs.gg/icons?i=java,haskell,html,css,js">
+  <img src="https://skills.thijs.gg/icons?i=java,haskell,js,react">
   <h1></h1>
 </div>
 <h5 align="center">Note: Try viewing this page with your theme (light/dark) switched!</h5>
