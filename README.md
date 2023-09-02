@@ -9,7 +9,7 @@ A student with wacky yet creative project ideas 👨🏻‍💻
   </h4>
   <img src="https://skills.thijs.gg/icons?i=python,c,java,haskell,mysql,arduino">
   <img src="https://skills.thijs.gg/icons?i=html,css,js,react">
-  <br><br>
+  <br><br><br>
   <h1></h1>
 </div>
 <h5 align="center">Note: Try viewing this page with your theme (light/dark) switched!</h5>
