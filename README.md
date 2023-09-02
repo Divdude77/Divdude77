@@ -5,10 +5,10 @@ A student with wacky yet creative project ideas 👨🏻‍💻
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Divdude77&theme=gotham&bg-color=0e1116&show_icons=true" align="right" style="">
   <h4>
-    Languages I'm familiar with:
+    Technologies I'm familiar with:
   </h4>
   <img src="https://skills.thijs.gg/icons?i=python,c,java,haskell,mysql,arduino">
-  <img src="https://skills.thijs.gg/icons?i=html,css,js,react">
+  <img src="https://skills.thijs.gg/icons?i=html,css,js,bootstrap,react">
   <br><br><br>
   <h1></h1>
 </div>
