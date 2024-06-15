@@ -7,7 +7,7 @@ A student with wacky yet creative project ideas 👨🏻‍💻
   <h4>
     Technologies I'm familiar with:
   </h4>
-  <img src="https://skillicons.dev/icons?i=python,c,cs,java,haskell,mysql,arduino,html,css,js,bootstrap,git,reach&perline=6">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,java,haskell,mysql,html,css,js,bootstrap,react,arduino,git,reach&perline=6">
   <br><br>
   <h1></h1>
 </div>
