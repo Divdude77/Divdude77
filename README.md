@@ -8,7 +8,7 @@ A student with wacky yet creative project ideas 👨🏻‍💻
     Technologies I'm familiar with:
   </h4>
   <img src="https://skillicons.dev/icons?i=python,c,cs,java,haskell,mysql,arduino,html,css,js,bootstrap,git,reach&perline=6">
-  <br><br><br>
+  <br><br>
   <h1></h1>
 </div>
 <h5 align="center">Note: Try viewing this page with your theme (light/dark) switched!</h5>
