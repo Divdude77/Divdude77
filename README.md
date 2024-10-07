@@ -1,4 +1,4 @@
-<a href="https://linkode.org/#P3ZSY9CLe9TBdfVP0eHFm1"><img src="https://raw.githubusercontent.com/Divdude77/Divdude77/refs/heads/main/1.png" style="max-height: 100%;"></a>
+<a href="https://linkode.org/#P3ZSY9CLe9TBdfVP0eHFm1"><img src="https://i.postimg.cc/pLC625YV/1.png" style="max-height: 100%;"></a>
 <h1 align="center">
 A student with wacky yet creative project ideas 👨🏻‍💻
 </h1>
